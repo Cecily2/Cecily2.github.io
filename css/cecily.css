@@ -1,0 +1,53 @@
+h1 {
+  font-family: 'Merriweather', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1;
+  font-size: 13px;
+  margin-top: 0px;
+  letter-spacing: -0.5px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather', serif;
+    letter-spacing: -0.5px;
+    font-weight: bold;
+}
+
+body, p {
+    font-family: 'Merriweather', serif;
+    line-height: 1.9;
+    font-size: 16px
+
+}
+
+.intro-header .site-heading .subheading {
+    font-family: 'Amatic SC', sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    font-size: 35px;
+}
+
+hr.small {
+    visibility: hidden;
+}
+
+.post-preview > .post-meta {
+    color: #ccc;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Open Sans'
+}
+
+@media only screen and (min-width: 768px) {
+    .intro-header .site-heading .subheading {
+        font-size: 50px;
+    }    
+  }
+  

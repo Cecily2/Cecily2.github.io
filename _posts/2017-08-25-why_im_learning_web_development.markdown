@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I'm learning web development"
-date:   2017-08-25 19:41:51 +0000
+date:   2017-08-25 15:41:52 -0400
 ---
 
 I was twelve when I started tinkering with the copy of Microsoft FrontPage on my family's computer. The idea of building my own website seemed magical at the time - in the sense that it was pretty awesome, but also in the sense that I knew absolutely nothing about how any of it worked. I was, like many people, a huge Harry Potter fan when I was twelve years old, so naturally my first real website was a Harry Potter fan site. It was hosted on Geocities and there were ten or so pages with information and links related to the books and movies.
@@ -16,4 +16,4 @@ Even though I have some prior experience, I still feel like a complete beginner 
 
 I'll close my first post with an early screenshot of a page on my first website: laid out with a jumble of tables, riddled with `<font>` tags, and designed for 800x600 resolution monitors! I hadn't figured out how to align Hermione's hand in the header image with her arm in the sidebar yet.
 
-<center>![](http://i.imgur.com/CsvN4Ui.jpg)</center>
+<img src="http://i.imgur.com/CsvN4Ui.jpg">
